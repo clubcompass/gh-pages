@@ -8,7 +8,6 @@ GOAL: The goal with Club Compass is  to create a more unified campus with clubs 
 People | Role | Progress |
 -------------  | -------------- | -------------- |
 Sam  | Scrum Master & Github Admin| Vaguely planned the steps for the project. Coordinated group membeers. In charge of managing 
-
 Paul   | Deployment Manager & Design Manager & Technical Officer|  Works on deployment and updating our website to be on par with our code. 
 
 
