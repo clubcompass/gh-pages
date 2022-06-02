@@ -20,4 +20,5 @@ Master plan was completely maintained - no changes were made.
 
 - [x] Team Assessment (Team Score) (`1/1`)
 
-I was by myself and completed all requirements
+- Sam Mahjori (`1/1`)
+- Paul Bokelman (`1/1`)
