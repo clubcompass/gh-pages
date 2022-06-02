@@ -4,6 +4,8 @@
 
 Club Compass is a full stack application to aid students at high schools in finding, creating, and managing on campus clubs. It is a web application that allows students to create clubs, invite other students to join, and manage club events. One of the largest problems with club discovery is that students are not able to find clubs that are relevant to their interests. Club Compass is a tool that allows students to find clubs that are relevant to their interests.
 
+[Video Commercial](https://youtu.be/z6qVV5QNvWc)
+
 ## Features
 
 Just a basic overview of what club compass is capable of.
